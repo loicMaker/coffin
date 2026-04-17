@@ -27,9 +27,9 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=1
-FILE_NAME_0=93;HTML;0;EUTF-8;1;1;0;%2FUsers%2Floic%2Fprojects%2Fcoffin%2Findex.html;0;2
-FILE_NAME_1=688;Javascript;0;EUTF-8;1;1;0;%2FUsers%2Floic%2Fprojects%2Fcoffin%2Fcoffin.js;0;2
+current_page=0
+FILE_NAME_0=105;HTML;0;EUTF-8;1;1;0;%2FUsers%2Floic%2Fprojects%2Fcoffin%2Findex.html;0;2
+FILE_NAME_1=794;Javascript;0;EUTF-8;1;1;0;%2FUsers%2Floic%2Fprojects%2Fcoffin%2Fcoffin.js;0;2
 
 [VTE]
 last_dir=/Users/loic
