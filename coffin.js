@@ -3,6 +3,7 @@ class CoffinVm extends HTMLElement {
 
   constructor() {
     super();
+    this.hidden = true;
     const _iframe = document.createElement("iframe");
     //_iframe.src = "https://wikipedia.org";
     if (self.innerHTML != "") {_iframe.srcdoc = `<p>${this.innerHTML}</p>`;}
